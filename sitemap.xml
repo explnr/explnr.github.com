@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://explnr.github.io/blog/2013/05/30/hello/</loc>
+        <lastmod>2013-05-30T18:33:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/blog/archives/</loc>
+        <lastmod>2013-05-30T18:33:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/robots.txt</loc>
+        <lastmod>2013-05-30T18:31:18+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/</loc>
+        <lastmod>2013-05-30T18:33:20+08:00</lastmod>
+    </url>
+</urlset>
