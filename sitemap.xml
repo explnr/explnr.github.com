@@ -2,6 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://explnr.github.io/blog/2013/05/30/hello/</loc>
+<<<<<<< HEAD
         <lastmod>2013-05-30T18:42:57+08:00</lastmod>
     </url>
     <url>
@@ -15,5 +16,20 @@
     <url>
         <loc>http://explnr.github.io/</loc>
         <lastmod>2013-05-30T18:42:57+08:00</lastmod>
+=======
+        <lastmod>2013-05-30T18:33:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/blog/archives/</loc>
+        <lastmod>2013-05-30T18:33:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/robots.txt</loc>
+        <lastmod>2013-05-30T18:31:18+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/</loc>
+        <lastmod>2013-05-30T18:33:20+08:00</lastmod>
+>>>>>>> 85a5a124722a7185326d30ff33545c83f7be8580
     </url>
 </urlset>
