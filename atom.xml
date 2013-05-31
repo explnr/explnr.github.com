@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://explnr.github.io/atom.xml" rel="self"/>
   <link href="http://explnr.github.io/"/>
-  <updated>2013-05-31T09:30:58+08:00</updated>
+  <updated>2013-05-31T10:31:52+08:00</updated>
   <id>http://explnr.github.io/</id>
   <author>
     <name><![CDATA[explnr]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello]]></title>
+    <title type="html"><![CDATA[A bug trace on strange sound of flash]]></title>
     <link href="http://explnr.github.io/blog/2013/05/30/hello/"/>
     <updated>2013-05-30T18:42:00+08:00</updated>
     <id>http://explnr.github.io/blog/2013/05/30/hello</id>
-    <content type="html"><![CDATA[<p>Rock and Roll.</p>
+    <content type="html"><![CDATA[<p>It is a hot debate about memcpy is used to copy overlapping regions of memory.</p>
+
+<p><a href="https://bugzilla.redhat.com/show_bug.cgi?id=638477">https://bugzilla.redhat.com/show_bug.cgi?id=638477</a></p>
 ]]></content>
   </entry>
   
