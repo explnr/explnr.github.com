@@ -1,0 +1,11 @@
+---
+layout: post
+title: "A bug trace on strange sound of flash"
+date: 2013-05-30 18:42
+comments: true
+categories: 
+---
+It is a hot debate about memcpy is used to copy overlapping regions of memory.
+
+https://bugzilla.redhat.com/show_bug.cgi?id=638477
+
