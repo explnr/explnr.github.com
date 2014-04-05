@@ -2,14 +2,50 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://explnr.github.io/blog/2013/05/30/hello/</loc>
-        <lastmod>2014-04-06T02:55:21+08:00</lastmod>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
     </url>
     <url>
         <loc>http://explnr.github.io/</loc>
-        <lastmod>2014-04-06T02:55:21+08:00</lastmod>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/customize.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/components.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/css.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/migration.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/getting-started.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/about.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/assets/bootstrap/docs/javascript.html</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
     </url>
     <url>
         <loc>http://explnr.github.io/blog/archives/</loc>
-        <lastmod>2014-04-06T02:55:21+08:00</lastmod>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://explnr.github.io/robots.txt</loc>
+        <lastmod>2014-04-06T05:56:10+08:00</lastmod>
     </url>
 </urlset>
